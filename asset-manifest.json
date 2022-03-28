@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.5f5ef579.css",
+    "main.js": "/portfolio/static/js/main.08a7cb15.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/about-1.jpg": "/portfolio/static/media/about-1.7de450111a09325fefc0.jpg",
+    "static/media/bg.jpg": "/portfolio/static/media/bg.3dee455f7326544ef1e4.jpg",
+    "static/media/about-9.jpg": "/portfolio/static/media/about-9.208d956feadde8ee77e5.jpg",
+    "static/media/missionImg-2.png": "/portfolio/static/media/missionImg-2.9f50e005b1d6c3cc3028.png",
+    "static/media/vision-2.jpg": "/portfolio/static/media/vision-2.cb1129b8f673a6000158.jpg",
+    "static/media/motto.jpg": "/portfolio/static/media/motto.632df183b06ffea0795f.jpg",
+    "static/media/portfolio1.jpg": "/portfolio/static/media/portfolio1.528a7c45b59b833fc212.jpg",
+    "static/media/portfolio6.jpg": "/portfolio/static/media/portfolio6.4e9c0d68aed8d64621c4.jpg",
+    "static/media/portfolio4.jpg": "/portfolio/static/media/portfolio4.cbc8ac07739dabb01ddd.jpg",
+    "static/media/portfolio5.jpg": "/portfolio/static/media/portfolio5.d6fe8625626ea3ae596b.jpg",
+    "static/media/logo.svg": "/portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/portfolio/index.html",
+    "main.5f5ef579.css.map": "/portfolio/static/css/main.5f5ef579.css.map",
+    "main.08a7cb15.js.map": "/portfolio/static/js/main.08a7cb15.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f5ef579.css",
+    "static/js/main.08a7cb15.js"
+  ]
+}
